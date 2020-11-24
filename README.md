@@ -1,1 +1,1 @@
-# practiceGit_yamakawaryouhei
+GitHub練習
